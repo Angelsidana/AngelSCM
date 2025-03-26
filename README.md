@@ -1,4 +1,4 @@
 # AngelSCM
-this is my git repository./br
+this is my git repository.
 
 author- angel
